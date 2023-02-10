@@ -1,16 +1,20 @@
 # id_card_app
 
-A new Flutter project.
+## Introduction
+  id_card_app is a simple flutter application which displays a image avatar, name, education , email and phone no.
+  
+  
+## Screenshots
+![Screenshot from 2023-02-10 19-24-30](https://user-images.githubusercontent.com/123725233/218109142-64d6faf4-4ec9-4d27-b043-50980dd67337.png)
+![Screenshot from 2023-02-10 19-24-45](https://user-images.githubusercontent.com/123725233/218109163-79a3f2e1-672c-498b-bf8c-2a6638bb455f.png)
+## Language Used
+  - Dart
+  
+### IDE Used 
+  - VS Code 
 
-## Getting Started
+MADE WITH :heart: BY HARSH
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
